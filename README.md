@@ -12,4 +12,4 @@ Neste pequeno projeto eu utilizei o Chatgpt para a criação do roteiro e prompt
 Moldei a ideia utilizando o Chatgpt(roteiro e prompt) e após isso gerei o video com o Veo 3.1 do Gemini
 
 ## 🚀 Resultados
-[Youtube](https://youtu.be/Ddfg65f2FOg)
+[Youtube](https://www.youtube.com/watch?v=Ddfg65f2FOg)
