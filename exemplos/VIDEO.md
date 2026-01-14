@@ -13,7 +13,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "Veo 3.1" foi es
 ## 🚀 Resultados
 O vídeo é como uma pequena tirinha de humor entre 2 gatos conversando em um cenário de podcast.
 
-[](https://www.youtube.com/watch?v=Ddfg65f2FOg)
+[Youtube](https://www.youtube.com/watch?v=Ddfg65f2FOg)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
